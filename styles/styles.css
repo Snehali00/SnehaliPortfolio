@@ -359,6 +359,10 @@ section {
   padding-left: 3rem;
   border-left: 1px solid var(--color-grey-5);
 }
+.timeline-item ul li {
+        list-style-type: disc;
+        margin-left: 20px;
+    }
 .timeline .timeline-item .tl-icon {
   position: absolute;
   left: -27px;
